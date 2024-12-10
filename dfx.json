@@ -1,10 +1,10 @@
 {
   "canisters": {
-    "icp_simple_site": {
+    "icp_portfolio": {
       "frontend": {
-        "entrypoint": "src/index.html"
+        "entrypoint": "portfolio/index.html"
       },
-      "source": ["src"],
+      "source": ["portfolio"],
       "type": "assets"
     }
   },
