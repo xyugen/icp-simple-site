@@ -9,13 +9,13 @@ It includes a frontend built with Vite and React, and a backend written in JS/TS
 
 Make sure you have you have the latest version of Docker (e.g. >25) and VS Code installed and running, then click the button below
 
-[![Open locally in Dev Containers](https://img.shields.io/static/v1?label=Dev%20Containers&message=Open&color=blue&logo=visualstudiocode)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/ICPHubPH/icp-simple-site)
+[![Open locally in Dev Containers](https://img.shields.io/static/v1?label=Dev%20Containers&message=Open&color=blue&logo=visualstudiocode)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/xyugen/icp-simple-site/)
 
 ### In your browser:
 
 In Gitpod
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/ICPHubPH/icp-simple-site/)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/xyugen/icp-simple-site/)
 
 ## 🚀 Develop
 
